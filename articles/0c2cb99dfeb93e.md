@@ -17,3 +17,5 @@ https://openai.com/security
 Data submitted through the OpenAI API is not used to train OpenAI models or improve OpenAI’s service offering. Data submitted through non-API consumer services ChatGPT or DALL·E may be used to improve our models.
 ```
 
+## テスト
+cliのテスト
