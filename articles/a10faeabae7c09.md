@@ -3,7 +3,7 @@ title: "【Obsidian】既存のAIサブスクだけでメモを整理する環�
 emoji: "🗃️"
 type: "idea"
 topics: ["obsidian", "claudecode", "chatgpt", "ai", "memo"]
-published: false
+published: true
 ---
 
 ## はじめに
@@ -227,6 +227,10 @@ Vaultのルートに、フォルダ構成・フロントマターのスキーマ
 | `obsidian-bases` | `.base` ファイル（ノートのDB風テーブル/カードビュー）の作成・編集 | ノート一覧を表形式で眺めたいとき。`.base`ファイル自体はAIからも読み書きできる |
 | `json-canvas` | `.canvas` ファイル（マインドマップ・図解）の作成・編集 | アーキテクチャ図や概念整理を視覚化したいとき |
 | `defuddle` | WebページをクリーンなMarkdownに変換して取得 | 調査メモ作成時に、ページ内の不要な要素を減らして取り込みたいとき |
+
+以下リンクのskills.shで`obsidian`と検索すれば、上のSkillも出てきますので、簡単に導入することが可能です。
+https://www.skills.sh/?q=obsidian
+
 
 ### Obsidian Gitで自動コミット・push
 
